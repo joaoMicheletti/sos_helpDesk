@@ -1,5 +1,4 @@
 #sos_helpDesk
-*essa foi a parte do projeto do 1º semestre do meu curso de "ADS"*
+**este é o projeto do 1º no qual eu trabalhei com a responsabilidade de criar a Home da nossa Lading pag**
 
-Nesta etapa fui responsavel pela criação da home da nossa "Landing Page" onde usei as tecnologias "HTML5, CSS3" 
-*Pagina responsiva!!*
+
